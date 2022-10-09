@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main2()
+int main()
 {
     cout << "Namespace yolo!!\n";
     return 0;
