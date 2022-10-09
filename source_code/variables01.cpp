@@ -1,6 +1,7 @@
 // variables01.cpp : int, char, string
 
 #include <iostream>
+#include <string>
 
 using namespace std;
 
