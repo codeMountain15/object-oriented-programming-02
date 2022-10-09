@@ -13,7 +13,7 @@ namespace Thessaloniki{
     string x = "mpougatsa me tyri";
 }
 
-int main1()
+int main()
 {
     cout << "I want " << Athens::x << " please" << endl;
     cout << "I want " << Thessaloniki::x << " please" << endl;
