@@ -7,9 +7,6 @@ using namespace std;
 int main()
 {
     int birth_year;
-    float num_float;
-    double num_double;
-
     char ch;
     string name = "temporary";
 
