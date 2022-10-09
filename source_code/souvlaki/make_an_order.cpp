@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+void main()
 {   
     int number_of_souvlakos;
 
