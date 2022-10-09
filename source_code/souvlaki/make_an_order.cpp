@@ -1,5 +1,4 @@
 // make_an_order.cpp : This example explores the include activity
-//
 
 #include <iostream>
 #include "order.h"
