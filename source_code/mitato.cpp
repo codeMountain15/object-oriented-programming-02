@@ -1,4 +1,4 @@
-// mitato.cpp : This file my first C++ programm
+// mitato.cpp : This file is my first C++ programm
 
 
 #include <iostream>
