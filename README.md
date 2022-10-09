@@ -1,6 +1,6 @@
 # Γνωριμία με την C++
 
-.......
+.......Υπό κατασκευή
 
 ## Πηγές
 * [cgi.di.uoa.gr/~izambo/oop.html](https://cgi.di.uoa.gr/~izambo/oop.html)
