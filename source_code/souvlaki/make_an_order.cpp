@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {   
     int number_of_souvlakos;
 
@@ -15,4 +15,6 @@ void main()
     cin >> number_of_souvlakos;
     
     pitogyra_num(number_of_souvlakos);
+
+    return 0;
 }
